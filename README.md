@@ -12,15 +12,15 @@ For staining, ProxUp basal medium was mixed with calcein (500 nM final concentra
 Multichannel images were saved as individual channel images in 8-bit tiff format for further analysis. 
 
 ## Segmentation and features of channel images were extracted using the following scripts for CaP dose range and compound treated samples, respectively:
-20200324_CaPimaging_featureExtraction-CaPrange
+20200324_CaPimaging_featureExtraction-CaPrange;
 20200324_CaPimaging_featureExtraction-INS3001
 
 ## Visualization of segmentation results was performed using the following scripts:
-20200401_CaPimaging_segmentationVisual-CaPrange
+20200401_CaPimaging_segmentationVisual-CaPrange;
 20200401_CaPimaging_segmentationVisual-INS3001
 
 ## Triplicate results were summarized and graphs prepared using the following script:
-/Users/anna/Documents/PhD/CalcificationImaging/ImageAnalysis/analysis_vF
+/Users/anna/Documents/PhD/CalcificationImaging/ImageAnalysis/analysis_vF;
 20200324_CaPimaging_featureVisualization
 
 # Image analysis brief explanation
